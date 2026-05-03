@@ -76,6 +76,10 @@ a {
     transition: border-color 0.3s;
 }
 
+p.about a {
+   font-weight: 700;
+}
+    
 a:hover {
     border-bottom: 1px solid #000;
 }
