@@ -37,6 +37,7 @@ p.about {
     letter-spacing: 1px;
     color: #333;
     text-transform: none;
+    text-align: justify;
     font-style: italic;
     max-width: 800px;
     margin: 0 auto 80px auto;
