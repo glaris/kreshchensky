@@ -56,8 +56,7 @@ p.about {
     height: auto;
     display: block;
     margin: 0 auto;
-    /* Убираем тени, оставляем чистую графику */
-}
+ }
 
 footer {
     margin-top: 150px;
